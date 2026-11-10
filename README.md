@@ -521,8 +521,6 @@ AGENTS.md / CLAUDE.md    engineering guidance for contributors and coding agents
 
 <div align="center">
 
-Built at **Hack the North 2026** 🥉 **3rd Place, QNX: Embedded Systems with QNX that uses AI**
-
 | 🕷️ | 🕷️ | 🕷️ | 🕷️ |
 | :---: | :---: | :---: | :---: |
 | **Aditya Padmarajan** | **Halie Favron** | **Noah Valentin Klaholz** | **Chris Dietrich** |
