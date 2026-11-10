@@ -2,17 +2,8 @@
 
 <img src="docs/readme/hero.svg" alt="SpideyIRL: a real-life Spidey Sense. Feel where obstacles are. Ask what the camera sees. Hands-free." width="100%">
 
-<img src="docs/readme/award.svg" alt="Hack the North 2026 award winner: 3rd Place, QNX: Embedded Systems with QNX that uses AI" width="100%">
-
 <br><br>
 
-[![Hack the North 2026](https://img.shields.io/badge/Hack%20the%20North-2026-e3262f?style=for-the-badge&labelColor=0b0e1a)](https://hackthenorth.com)
-[![3rd Place · QNX track](https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-QNX%20Embedded%20%2B%20AI-cd7f32?style=for-the-badge&labelColor=0b0e1a)](https://hackthenorth.com)
-[![Tests](https://img.shields.io/badge/tests-224%20passing-2ea44f?style=for-the-badge&labelColor=0b0e1a)](#test)
-<br>
-[![Firmware](https://img.shields.io/badge/firmware-C%20on%20QNX-2a5bff?style=for-the-badge&labelColor=0b0e1a)](firmware/)
-[![Host](https://img.shields.io/badge/host-Python%203.11%2B-3776ab?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0e1a)](#getting-started)
-[![License](https://img.shields.io/badge/license-MIT-aab3c8?style=for-the-badge&labelColor=0b0e1a)](LICENSE)
 
 <br>
 
